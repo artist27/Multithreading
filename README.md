@@ -1,1 +1,1 @@
-# Finding Prime Number use Multithreading With C#
+# Finding Prime Number use Multithreading With C-Sharp
