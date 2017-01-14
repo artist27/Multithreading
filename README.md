@@ -1,1 +1,1 @@
-"# Finding Prime Number use Multithreading" 
+# Finding Prime Number use Multithreading
