@@ -1,0 +1,15 @@
+C:\Users\pc-27\AppData\Local\Temporary Projects\YazLab2\bin\Debug\YazLab2.exe
+C:\Users\pc-27\AppData\Local\Temporary Projects\YazLab2\bin\Debug\YazLab2.pdb
+C:\Users\pc-27\AppData\Local\Temporary Projects\YazLab2\obj\x86\Debug\YazLab2.Form1.resources
+C:\Users\pc-27\AppData\Local\Temporary Projects\YazLab2\obj\x86\Debug\YazLab2.Properties.Resources.resources
+C:\Users\pc-27\AppData\Local\Temporary Projects\YazLab2\obj\x86\Debug\YazLab2.csproj.GenerateResource.Cache
+C:\Users\pc-27\AppData\Local\Temporary Projects\YazLab2\obj\x86\Debug\YazLab2.exe
+C:\Users\pc-27\AppData\Local\Temporary Projects\YazLab2\obj\x86\Debug\YazLab2.pdb
+C:\Users\pc-27\Documents\Visual Studio 2010\Projects\YazLab2\YazLab2\obj\x86\Debug\YazLab2.exe
+C:\Users\pc-27\Documents\Visual Studio 2010\Projects\YazLab2\YazLab2\obj\x86\Debug\YazLab2.pdb
+C:\Users\pc-27\Documents\Visual Studio 2010\Projects\YazLab2\YazLab2\bin\Debug\YazLab2.exe
+C:\Users\pc-27\Documents\Visual Studio 2010\Projects\YazLab2\YazLab2\bin\Debug\YazLab2.pdb
+C:\Users\pc-27\Documents\Visual Studio 2010\Projects\YazLab2\YazLab2\obj\x86\Debug\YazLab2.Form1.resources
+C:\Users\pc-27\Documents\Visual Studio 2010\Projects\YazLab2\YazLab2\obj\x86\Debug\YazLab2.Properties.Resources.resources
+C:\Users\pc-27\Documents\Visual Studio 2010\Projects\YazLab2\YazLab2\obj\x86\Debug\YazLab2.csproj.GenerateResource.Cache
+C:\Users\pc-27\Documents\Visual Studio 2010\Projects\YazLab2\YazLab2\obj\x86\Debug\YazLab2.csprojResolveAssemblyReference.cache
